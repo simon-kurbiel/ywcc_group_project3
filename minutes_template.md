@@ -3,25 +3,11 @@
 
 **Meeting Date/Time:** meeting_date, meeting_time  
 
-**Meeting Location:** meeting_location
-
-**Meeting called by:** organizer name
-
-**Facilitator:** facilitator name
-
-**Timekeeper:** timekeeper name
-
-**Please Read:** enter reading list here
-
-**Please bring:** items to bring
-
-**Type of meeting:** purpose of meeting
-
 **Note Taker:** note_taker  
 
 ## Attendees
 People who attended:
-- Person A
+- 
 - Person B
 - Person C
 - Person D
