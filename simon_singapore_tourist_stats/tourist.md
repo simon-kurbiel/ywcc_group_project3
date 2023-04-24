@@ -8,6 +8,10 @@
 - famous for being a financial center
 - It's a city-state
 
+## Population
+- Only about 5.4M
+- Expecting to hit 12-14 million visitors by the end of the year 2023
+
 ## By Age:
 
 -   Under 15 Years: 201,170 visitors
