@@ -11,6 +11,9 @@
 ## Population
 - Only about 5.4M
 - Expecting to hit 12-14 million visitors by the end of the year 2023
+- Have already seen about 2.9 million visitors in first 3 months of 2023 alone.
+- There are plenty of lnaguges spoken in Singapore : English, Malay, Tamil, Mandarin
+- preferred step-over cities for many travellers connecting between Europe and Asia.
 
 ## By Age:
 
