@@ -8,7 +8,7 @@ Marriott International is facing pressure to innovate and review the AI strategy
 ## How will we answer the question?
 We will take into consideration several factors to determine whether Marriot should deploy guest-facing AI in singapore. Some of the questions/topics will take account of the tourism sector in Singapore, what are the downsides of AI, what are some of the new features of AI, and how do singaporeans feel about AI.
 
-### SIngaporeans Feeling toward AI
+### Singaporeans Feeling toward AI
 
 
 ### Tourism Sector in Singapore
@@ -18,3 +18,8 @@ We will take into consideration several factors to determine whether Marriot sho
 
 
 ### Downsides of AI
+- People sometimes get frustrated with technology because it can’t handle certain niche requests
+- It feels less personal to interact with a machine than another human being
+- For things such as facial recognition, it requires you to trust the hotel with biometric data which can make people uncomfortable
+- Initial financial investment can be high in the hospitality / hotel industry
+- Possibility for it to be fed / trained on bad data, making it perform worse (where as if a human makes a mistake, it is easy to correct it an AI will take much longer to learn a correction)
