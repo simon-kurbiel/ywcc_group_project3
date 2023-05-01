@@ -159,14 +159,14 @@ item | Person responsible | Deadline |
 - Brian
 - Abraham
 
-# Team Meeting
-## Discussion on Preparation for Presentation
+## Meeting 4-18-23
+#### Discussion on Preparation for Presentation
 
 **Meeting Date/Time:** 4/18, 5:45 p.m. – 6:10- p.m.  
 
 **Note Taker:** Brian Brisson  
 
-## Attendees
+#### Attendees
 People who attended:
 - 
 - Brian
@@ -176,22 +176,22 @@ People who attended:
 
 ---
 
-## Agenda Items
+#### Agenda Items
 
 ---
 
-### Agenda Item1 : Introduction and Conclusion Slides
-### Presenter : Jibreal
-### Discussion :
+##### Agenda Item1 : Introduction and Conclusion Slides
+##### Presenter : Jibreal
+##### Discussion :
 - Jibreal made introduction slides
 - The ordering of the presentation will be determined once all research is added to the slides
 -Brian will make the conclusion slide
-### conclusions
+##### conclusions
 - The ordering of the presentation and rehearsal will be the last actions before presentation
 
 
 
-### Action Items
+##### Action Items
 item | Person responsible | Deadline |
 ---- | ---- | ---- |
 | Make conclusion slides | Brian | 4/22 |
@@ -199,17 +199,17 @@ item | Person responsible | Deadline |
 ---
 
 
-### Agenda Item2 : Moving Research to Slides
-### Presenter : Abraham
-### Discussion :
+##### Agenda Item2 : Moving Research to Slides
+##### Presenter : Abraham
+##### Discussion :
 - Abraham moved his research to slides 6-7 of presentation
 - Simon still gathering more research
-### conclusions
+##### conclusions
 - The rest of the group will add their research to the slides throughout the week
 
 
 
-### Action Items
+##### Action Items
 item | Person responsible | Deadline |
 ---- | ---- | ---- |
 | Move research to slides  | Brian | 4/22 |
@@ -218,29 +218,33 @@ item | Person responsible | Deadline |
 
 ---
 
-### Agenda Item3 : Final Meeting
-### Presenter : Brian
-### Discussion :
+##### Agenda Item3 : Final Meeting
+##### Presenter : Brian
+##### Discussion :
 - Set up final meeting to discuss ordering of slides
 - Will also discuss flow for presentation and rehearse
 - Should take place sometime from 4/20-4/23 
-### conclusions
+##### conclusions
 - The final meeting will take place when all research is added to the slides and the group is ready to discuss presentation flow
 
 
 
-### Action Items
+##### Action Items
 item | Person responsible | Deadline |
 ---- | ---- | ---- |
 | Attend Final Meeting  | Brian, Simon, Jibreal, Abraham | 4/23 |
 
 ---
-## Other Information
+#### Other Information
 ---
-### Observers:
+##### Observers:
 - Jibreal
 - Simon
 - Abraham
+
+
+## Last meeting : 4-25-23
+Discussed who was going to present what..
 
 
 
